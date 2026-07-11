@@ -29,7 +29,7 @@ Calculates key technical indicators to feed as features into the neural network:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/aryansinghiit06-cyber/Intraday-Momentum-ML-Engine.git](https://github.com/aryansinghiit06-cyber/Intraday-Momentum-ML-Engine.git)
+   git clone https://github.com/aryansinghiit06-cyber/Intraday-Momentum-ML-Engine.git
    ```
 2. Install the required dependencies:
    ```bash
